@@ -2,7 +2,7 @@
 
 Les dossiers sont en .zip pour récupérer tous les fichiers afin de récupérer un espace prêt à être utilisé.
 
-Dans le fichier -- > touche pas > note de paramètres > changer les USERs , pareils dans le répertoire perso.
+Dans le fichier -- > touche pas > note de paramètres > changer les USERs , pareils dans les répertoires respectif.
 
 Pour ne pas utiliser obsidian sync, utiliser Google Drive, ajouter le en lecteur Windows, puis ouvrer le chemin du vault depuis Obsidian. Je conseille de faire un backup pour éviter des problèmes ou des archives.
 
