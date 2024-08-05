@@ -49,10 +49,14 @@ Ne pas hésiter à faire des appels entre notes, voici la notation :
 ```
 
 Ressources utiles pour gérer la notation markdown : 
+
 [Obsidian Help: Basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
+
 https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md
 
 CSS mis en place : 
+
 https://github.com/CyanVoxel/Obsidian-Notebook-Themes
+
 https://github.com/deathau/obsidian-snippets
 
