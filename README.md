@@ -15,7 +15,7 @@ Pour utiliser les templates :
 	- Sélectionner le template dont vous avez besoin 
 	- Saisir les demandes (dans les propriétés et dans le fichier) pour avoir une homogénéité dans les notes
 - Ne pas hésiter à faire des listes des étapes et leurs statuts : 
-![README](README-20240805134540998.jpg)
+![](https://raw.githubusercontent.com/deathau/obsidian-snippets/main/images/checkboxes.png)
 	- D'autres templates arriveront en fonction des demandes de chacun et des cours
 
 
